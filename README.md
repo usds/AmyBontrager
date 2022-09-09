@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmyBontrager
 - 👀 I’m interested in creating good government for the American people by investing in the workforce 
 - 🌱 I’m currently learning how we can continue to leverage technology to enhance federal work. 
-- 📫 Email me at Amy.Bontrager@OMB.EOP.GOV or find me on LinkedIn [https://www.linkedin.com/in/amybontrager/] 
+- 📫 Email me at Amy.Bontrager@OMB.EOP.GOV or find me on LinkedIn https://www.linkedin.com/in/amybontrager/
 
 <!---
 AmyBontrager/AmyBontrager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
