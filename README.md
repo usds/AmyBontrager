@@ -15,11 +15,10 @@ You can click the Preview link to take a look at your changes.
 | Nitty Gritty Topics |https://github.com/orgs/usds/projects/62|
 |Nitty Gritty Repo| https://github.com/usds/nitty-gritty|
 
-**
-Tracking Projects/Repos**
+**Tracking Projects/Repos**
 
 | Focus | Link|
 |------| ------| 
-|USDS Priorties| https://github.com/orgs/usds/projects/59 |
-| Talent Repo | https://github.com/usds/talent |
-| TM Team Private repo| https://github.com/usds/talent-team-only | 
+|USDS Priorties| https://github.com/orgs/usds/projects/59                           |
+| Talent Repo | https://github.com/usds/talent                                      |
+| TM Team Private repo| https://github.com/usds/talent-team-only                    | 
