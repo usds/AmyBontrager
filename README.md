@@ -8,6 +8,9 @@ AmyBontrager/AmyBontrager is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 My Projects/Repos
+| Focus  | Link  |
+|-------------------- | ----------------------------------------|
+| Nitty Gritty Project | https://github.com/orgs/usds/projects/64 |
 https://github.com/orgs/usds/projects/64
 https://github.com/orgs/usds/projects/62
 https://github.com/usds/nitty-gritty
