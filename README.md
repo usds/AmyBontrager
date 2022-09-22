@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 My Projects/Repos
 | Focus  | Link  |
 |------- | ------------|
+| My workspace | https://github.com/users/AmyBontrager/projects/4/views/1   
 | Nitty Gritty Project | https://github.com/orgs/usds/projects/64 |
-| | https://github.com/orgs/usds/projects/64|
-|    |https://github.com/orgs/usds/projects/62|
-| | https://github.com/usds/nitty-gritty|
+| Nitty Gritty Topics |https://github.com/orgs/usds/projects/62|
+|Nitty Gritty Repo| https://github.com/usds/nitty-gritty|
 
 
 Tracking Projects/Repos
