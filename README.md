@@ -24,3 +24,4 @@ You can click the Preview link to take a look at your changes.
 |USDS Priorties| https://github.com/orgs/usds/projects/59                           |
 | Talent Repo | https://github.com/usds/talent                                      |
 | TM Team Private repo| https://github.com/usds/talent-team-only                    | 
+| Email List Serves | https://github.com/usds/mailing-lists |
