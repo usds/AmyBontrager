@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 | Nitty Gritty Topics |https://github.com/orgs/usds/projects/62|
 |Nitty Gritty Repo| https://github.com/usds/nitty-gritty|
 |Government Experience Repo | https://github.com/usds/Government-Experience |
- Government Experience Project Plan | https://github.com/orgs/usds/projects/56 |
+| USDS Government Ops Project Plan | https://github.com/orgs/usds/projects/56 |
 
 **Tracking Projects/Repos**
 
@@ -25,3 +25,4 @@ You can click the Preview link to take a look at your changes.
 | Talent Repo | https://github.com/usds/talent                                      |
 | TM Team Private repo| https://github.com/usds/talent-team-only                    | 
 | Email List Serves | https://github.com/usds/mailing-lists |
+| Quarterly Planning | https://github.com/orgs/usds/projects/74#card-86823049       | 
