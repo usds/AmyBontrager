@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 |Nitty Gritty Repo| https://github.com/usds/nitty-gritty|
 |Government Experience Repo | https://github.com/usds/Government-Experience |
 | USDS Government Ops Project Plan | https://github.com/orgs/usds/projects/56 |
+| Tiger Team | https://github.com/usds/talent-team-only/issues/340#issuecomment-1448583621 |
 
 **Tracking Projects/Repos**
 
