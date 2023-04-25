@@ -27,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 | TM Team Private repo| https://github.com/usds/talent-team-only                    | 
 | Email List Serves | https://github.com/usds/mailing-lists |
 | Quarterly Planning | https://github.com/orgs/usds/projects/74#card-86823049       | 
+| Writing Guide| https://tools.usds.gov/handbook/how-to/comms-and-brand-toolkit.md |
